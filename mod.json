@@ -1,0 +1,8 @@
+{
+  "geode": "3.0.0",
+  "id": "yourname.restart_lock",
+  "version": "v1.0.0",
+  "name": "Restart Lock",
+  "developer": "YourName",
+  "description": "Adds a toggle button in the pause menu to prevent accidental level restarts."
+}
